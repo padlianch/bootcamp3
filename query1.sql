@@ -1,0 +1,12 @@
+-- CREATE TABLE tahun(
+-- 	id int NOT NULL,
+-- 	tahun int,
+-- 	PRIMARY KEY (id)
+-- );
+
+-- CREATE TABLE tahun_ajaran(
+-- 	id int NOT NULL,
+-- 	tahun_ajaran varchar(255),
+-- 	id_tahun_mulai int,
+-- 	PRIMARY KEY (id)
+-- );
