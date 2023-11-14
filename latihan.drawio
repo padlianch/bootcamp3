@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2023-11-14T03:21:34.224Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="3AWaI1UNQqE6O4zUJES-" version="22.0.3" type="device">
+<mxfile host="Electron" modified="2023-11-14T04:32:07.701Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="dY_2-LTDbjW50hbBXCuF" version="22.0.3" type="device">
   <diagram name="Page-1" id="UiX7BXHga9CfkVpGNajo">
-    <mxGraphModel dx="1917" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1973" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -154,7 +154,7 @@
         <mxCell id="ZPSvsjxFc_m_XYNzdxUp-39" value="tahun_ajaran" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="ZPSvsjxFc_m_XYNzdxUp-37">
           <mxGeometry y="52" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="ZPSvsjxFc_m_XYNzdxUp-78" value="id_tahun_mulai" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="ZPSvsjxFc_m_XYNzdxUp-37">
+        <mxCell id="ZPSvsjxFc_m_XYNzdxUp-78" value="tahun_mulai" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="ZPSvsjxFc_m_XYNzdxUp-37">
           <mxGeometry y="78" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="ZPSvsjxFc_m_XYNzdxUp-40" value="Assets" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98bf21;fillColor=#A7C942;shadow=1;" vertex="1" parent="1">
@@ -385,9 +385,6 @@
             <mxRectangle width="93" height="31" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZPSvsjxFc_m_XYNzdxUp-100" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;startArrow=ERone;startFill=0;endArrow=ERone;endFill=0;jumpStyle=arc;" edge="1" parent="1" source="ZPSvsjxFc_m_XYNzdxUp-76" target="ZPSvsjxFc_m_XYNzdxUp-78">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ZPSvsjxFc_m_XYNzdxUp-107" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;jumpStyle=arc;" edge="1" parent="1" source="ZPSvsjxFc_m_XYNzdxUp-101" target="ZPSvsjxFc_m_XYNzdxUp-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -486,6 +483,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZPSvsjxFc_m_XYNzdxUp-139" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;" edge="1" parent="1" source="ZPSvsjxFc_m_XYNzdxUp-116" target="ZPSvsjxFc_m_XYNzdxUp-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZPSvsjxFc_m_XYNzdxUp-141" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;" edge="1" parent="1" source="ZPSvsjxFc_m_XYNzdxUp-77" target="ZPSvsjxFc_m_XYNzdxUp-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
